@@ -36,8 +36,8 @@ A simple and intuitive Currency Converter web application built using **React JS
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/PawanSinghKhnera02/currency-converter-app.git
-cd currency-converter-app
+git clone https://github.com/PawanSinghKhnera02/currency-converter.git
+cd currency-converter
 ```
 
 ### 2. Install Dependencies
